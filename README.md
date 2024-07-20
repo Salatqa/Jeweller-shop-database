@@ -1,2 +1,2 @@
 <h1>Jweweller shop database</h1>
-This database was made for my technical univeristy lecture. There is pdf document with detailed description of entities 
+This database was made for my technical univeristy lecture. First of all I created project of database - it is pdf document with detailed description of entity sets, database usage scenarios and ERD diagram. Then I implemented it in SQL - i created tables, filled it with data, made cascade updating and removing. In addition you can find here complex SELECT queries with usage scenarios.
